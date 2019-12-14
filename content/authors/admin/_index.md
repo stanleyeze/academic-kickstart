@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: MSc Computer Science
-    University of Regina
+    institution: University of Regina
     year: 2019
   - course: BSc Computer Science
     institution: Nnamdi Azikiwe University, Awka
