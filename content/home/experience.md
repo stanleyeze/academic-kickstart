@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   description = """Webdesigner And Programer
     Responsibilities include:
   
-  * Responsive Webdesign
+  * Responsive Web design
   * PHP and Python programming
   * Website deployment and Maintenance
   
