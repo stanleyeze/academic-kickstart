@@ -40,11 +40,12 @@ date_format = "Jan 2006"
   date_start = "2015-08-03"
   date_end = "2017-07-28"
   description = """Webdesigner And Programer
-  
     Responsibilities include:
   
   * Responsive Webdesign
   * PHP and Python programming
   * Website deployment and Maintenance
+  
+  """
 
 +++
